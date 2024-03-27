@@ -41,4 +41,3 @@ python ascii_converter.py --file input.jpg --cols 100 --scale 0.5
 
 - The grayscale level values used for mapping luminance to ASCII characters are sourced from [Paul Bourke's website](http://paulbourke.net/dataformats/asciiart/).
 - This code was written for educational purposes and inspired by various ASCII art tutorials and resources available online.
-```
